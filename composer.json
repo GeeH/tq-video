@@ -1,0 +1,12 @@
+{
+    "name": "geeh/tq-video",
+    "authors": [
+        {
+            "name": "Gary Hockin",
+            "email": "geeh@roave.com"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "^5.33"
+    }
+}
